@@ -2,10 +2,13 @@
 
 _A demonstration of converting a design prototype into a webpage_
 
+
+##About
 Created a animal trading card from a design mock utilizing basics in HTML and CSS.
 
 
-##Get Up and Running
-Double click the `card.html` file to view in your brower. The initial mockup file, `design-prototype.png`, can be found in the `mockup` folder.
+##How to View
+1. Open `card.html` in your brower
+2. You can view the initial mockup file, `design-prototype.png`, which can be found in the `mockup` folder.
 
 
