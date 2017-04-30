@@ -8,6 +8,8 @@ Created a animal trading card from a design mock utilizing basics in HTML and CS
 
 
 ## How to View
+[click here](https://blitnee.github.io/animal_trading_cards/) or
+
 1. Open `card.html` in your brower
 2. You can view the initial mockup file, `design-prototype.png`, which can be found in the `mockup` folder.
 
